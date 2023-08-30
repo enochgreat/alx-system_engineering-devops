@@ -1,2 +1,2 @@
 #!/bin/bash
-sort -n ls -a . ../103-commas*
+ls -1vxmpa
