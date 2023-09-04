@@ -1,2 +1,2 @@
 #!/bin/bash
-file $(ls /etc/hosts)
+/etc/passwd >> /etc/hosts
