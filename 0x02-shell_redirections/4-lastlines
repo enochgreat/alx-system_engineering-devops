@@ -1,2 +1,2 @@
 #!/bin/bash
-ls -a |tr ":" "\n" | tail -l
+tail /etc/passwd
